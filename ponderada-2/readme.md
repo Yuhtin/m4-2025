@@ -45,10 +45,14 @@ Gráfico 1: Curva de Carga do Capacitor (Vc)
 - Tensão inicial: 0.00 V
 - Tensão máxima atingida: ~5.00 V
 
+![alt text](image-2.png)
+
 Gráfico 2: Curva de Descarga do Resistor (Vr)
 - Mostra como a tensão no resistor diminui conforme o capacitor carrega
 - Tensão inicial: 5.00 V
 - Tensão final: ~2.76 V (parei o teste antes de chegar a 0V)
+
+![alt text](image-3.png)
 
 Gráfico 3: Gráfico Combinado
 - Visualização simultânea de Vc e Vr
